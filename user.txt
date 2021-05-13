@@ -2,3 +2,5 @@ hong 1234
 kim 1234
 kang 1234
 choi 1234
+lee 1234
+nam 1234
